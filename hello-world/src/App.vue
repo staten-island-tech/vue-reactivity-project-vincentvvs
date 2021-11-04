@@ -26,7 +26,7 @@ export default {
       {
         item: "Cookie N Cream",
         price:6, 
-        image: require("./assets/Carvelancheoreo.png")
+        image: require("")
       },{
         item: "Pistachio", 
         price:6, 
